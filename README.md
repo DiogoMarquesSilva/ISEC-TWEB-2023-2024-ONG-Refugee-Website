@@ -23,11 +23,11 @@ The project had two main objectives:
     * **Value Calculation:** Dynamic calculation and display of the impact of the donation (number of meals or people fed) based on the amount, updated in real-time.
     * **Payment Method Simulation:** Handling different payment options (Credit Card, Paypal, Multibanco, MBWay for single; Credit Card, Direct Debit for recurring) - client-side logic only.
     * **Conditional Fields:** Displaying additional fields (like address for recurring donations or IBAN for Direct Debit) based on user selections.
-    * **DOM Manipulation:** All dynamic content generation and form interactions handled exclusively with vanilla JavaScript.
+    * **DOM Manipulation:** All dynamic content generation and form interactions handled exclusively with JavaScript.
 
 ## Tools and Languages Used
 
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Languages:** HTML5, CSS3, JavaScript
 * **IDE:** VS Code
 * **CSS Preprocessors:** SASS was **not** used in this project.
 
